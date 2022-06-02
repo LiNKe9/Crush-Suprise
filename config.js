@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: 'Gét gô',
     title: 'Phải chăng Ck không bị do đường, trời không mưa thằng ml kia không say là được đi tráy phố ròi',
     desc: 'Phải chăng Ck đi ăn mì cay hải sản với toi ',
-    btnYes: 'Nhớ vk lắm :3',
+    btnYes: 'Đi 6 ngày 6 đêm, mẹ chửi hong về, anh gọi không về, Gét gô',
     btnNo: 'Không nha chêeeee :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho Tlinh nho hohoo =))',
