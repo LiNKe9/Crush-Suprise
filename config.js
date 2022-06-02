@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Sao vào đây zậy
     Nhớ tui chứ gì tui biết mà =))
     Trả lời câu hỏi ii`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: 'Gét gô',
     title: 'Phải chăng Ck và Vk là 1 nhà =)))',
     desc: 'Phải chăng Ck đi ăn mì cay hải sản với toi ',
     btnYes: 'Nhớ vk lắm :3',
