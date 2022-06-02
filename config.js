@@ -1,10 +1,9 @@
 const CONFIG = {
     titleWeb: "Chào công trúa Ngoc ngốc",
-    introTitle: 'Âu Thanh Ngọc',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Helu ck Ngọc',
+    introDesc: `Sao vào đây zậy
+    Nhớ tui chứ gì tui biết mà =))
+    Trả lời câu hỏi ii`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Ck và Vk là 1 nhà =)))',
     desc: 'Phải chăng Ck đi ăn mì cay hải sản với toi ',
