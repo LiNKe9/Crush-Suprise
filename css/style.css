@@ -29,10 +29,9 @@
     height: 50;
     /* height: 100vh; */
     z-index: 0;
-    background-size: 50%;
     background-repeat: no-repeat;
     background-image: url(../img/bg.webp);
-    background-size: cover;
+    background-size: 30;
     background-position: 50%;
     -webkit-filter: blur(4px);
 }
