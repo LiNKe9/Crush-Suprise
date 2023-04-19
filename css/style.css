@@ -28,6 +28,7 @@
     opacity: .8;
     /* height: 100vh; */
     z-index: 0;
+    background-size: 100% auto;
     background-repeat: no-repeat;
     background-image: url(../img/bg.webp);
     background-size: cover;
