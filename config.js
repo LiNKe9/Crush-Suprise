@@ -1,4 +1,4 @@
-const CONFIG = {
+    CONFIG = {
     titleWeb: "bé dâu cute 🍓",
     introTitle: 'Helu Bé dâu 🍓 iu cụa anh',
     introDesc: `Đi Vũng Tàu
