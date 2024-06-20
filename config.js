@@ -7,7 +7,7 @@
     btnIntro: 'Gét gô',
     title: 'Về với anh điiiii',
     desc: 'Không chịu buộc chịu',
-    btnYes: 'Đi 6 ngày 6 đêm, mẹ chửi hong về, chị gọi không về, Gét gô',
+    btnYes: 'Đi 6 ngày 6 đêm, mẹ chửi hong về, ba gọi không về, Gét gô',
     btnNo: 'Không nha chêeeee :3',
     question: 'Lần này không bịp đâu hỏi thật đấy',
     btnReply: 'Gửi cho Tlinh nho hohoo =))',
