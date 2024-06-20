@@ -1,6 +1,6 @@
     CONFIG = {
-    titleWeb: "bé dâu cute 🍓",
-    introTitle: 'Helu Bé dâu 🍓 iu cụa anh',
+    titleWeb: "Nấm lùn cute🍄",
+    introTitle: 'Chào mừng Nấm lùn🍄 iu cụa toi',
     introDesc: `Đi Vũng Tàu
     Nhớ tui chứ gì tui biết mà =))
     Trả lời câu hỏi ii`,
@@ -13,7 +13,7 @@
     btnReply: 'Gửi cho Tlinh nho hohoo =))',
     reply: 'Về với anh cháy banh cái vũng tàu',
     mess: 'Anh biết mà xăng đổ đầy bình rồi, :)) cháy phố Vũng Tàu thôi',
-    messDesc: 'Xong về lại Hà Nội cháy sập cái Hà Nội nhá',
+    messDesc: 'Xong về nhà em quẫy tiếp :))) nhá',
     btnAccept: 'Okiiiii lun gét gô <3',
     messLink: 'https://www.facebook.com/messages/t/100040770521015' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
