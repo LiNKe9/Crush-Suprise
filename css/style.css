@@ -30,7 +30,7 @@
     z-index: 0;
     background-repeat: no-repeat;
     background-image: url(../img/bg.webp);
-    background-size: 90%;
+    background-size: 75%;
     background-position: 50%;
     -webkit-filter: blur(0px);
 }
