@@ -2,7 +2,7 @@
     titleWeb: "NgocTrai 🍄",
     introTitle: 'Ô vị trí đặc biệt của tôi tới rồi sao?',
     introDesc: `Đi Vũng Tàu
-    Nhớ tui chứ gì tui biết mà =))
+    Cháy banh vt khơm
     Trả lời câu hỏi ii`,
     btnIntro: 'Gét gô',
     title: 'Về với anh điiiii',
