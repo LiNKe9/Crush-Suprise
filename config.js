@@ -1,6 +1,6 @@
     CONFIG = {
-    titleWeb: "Nấm lùn cute🍄",
-    introTitle: 'Chào mừng Nấm lùn🍄 iu cụa toi',
+    titleWeb: "NgocTrai 🍄",
+    introTitle: 'Ô vị trí đặc biệt của tôi tới rồi sao?',
     introDesc: `Đi Vũng Tàu
     Nhớ tui chứ gì tui biết mà =))
     Trả lời câu hỏi ii`,
@@ -11,7 +11,7 @@
     btnNo: 'Không nha chêeeee :3',
     question: 'Lần này không bịp đâu hỏi thật đấy',
     btnReply: 'Gửi cho Tlinh nho hohoo =))',
-    reply: 'Về với anh cháy banh cái vũng tàu',
+    reply: 'Về với anh cháy banh cái Ngãi Giao',
     mess: 'Anh biết mà xăng đổ đầy bình rồi, :)) cháy phố Vũng Tàu thôi',
     messDesc: 'Xong về nhà em quẫy tiếp :))) nhá',
     btnAccept: 'Okiiiii lun gét gô <3',
